@@ -2,5 +2,5 @@ Step1 : Download file from this location #fileurl<-"https://d396qusza40orc.cloud
 #download.file(fileurl,destfile="CEP1ZIPDATA.zip"), 
 Step 2 : unzip the file to your R working directory to create data folder "UCI HAR Dataset"
 Step3 : source("run_analysis.R") command in RStudio. Make sure the R file in the WD.
-Step4:  Find file "tidydata.txt" in the same directoy.
+Step4:  Find file "tidydata.txt" in the same directoy...
 
